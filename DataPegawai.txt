@@ -1,0 +1,23 @@
+=============================
+ID  | Nama	| Jabatan
+=============================
+1   | Edgar	| SPV
+2   | Zahra	| SPV
+3   | Bobby	| SPV
+4   | Andre	| SPV
+5   | Bagas	| SPV
+6   | Debbie	| Staff
+7   | Cinta	| Staff
+8   | Roland	| Staff
+9   | Cindy	| Staff
+10  | Agus	| Staff
+11  | Satria	| Staff
+12  | Amelia	| Staff
+13  | Dodit	| Staff
+14  | Angga	| Staff
+15  | Malik	| Staff
+16  | Satya	| Staff
+17  | Wulan	| Staff
+18  | Karina	| Staff
+19  | Ningsih	| Staff
+20  | Felix	| Staff
